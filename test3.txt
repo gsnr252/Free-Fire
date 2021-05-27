@@ -1,4 +1,2 @@
-
-fckjkcbb
-hcjbkj
+#removed unwanted functions
 hello world
